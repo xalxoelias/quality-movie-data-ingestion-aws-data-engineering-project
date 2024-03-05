@@ -8,3 +8,7 @@ The goal of this project is to perform data analytics on IMDb data using various
 Architecture
 ------------
 ![Project Architecture](https://github.com/xalxoelias/quality-movie-data-ingestion-aws-data-engineering-project/assets/87695923/ccbf3df6-9a81-4e1e-9289-1d89d87b7e1b)
+
+Description
+-----------
+
